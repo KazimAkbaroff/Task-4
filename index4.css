@@ -1,0 +1,97 @@
+@font-face {
+    font-family: Roboto static; sans-serif;
+    src: url <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">);
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #7a6f6f;
+}
+
+.container {
+    max-width: 30%;
+    margin: 20px auto; 
+    padding: 20px;
+    background-color: #7a6f6f;
+    border: 2px solid #080808e5; 
+    border
+    box-shadow: 0px 0px 4px 5px rgba(163,25,25,0.51);
+-webkit-box-shadow: 0px 0px 4px 5px rgba(163,25,25,0.51);
+-moz-box-shadow: 0px 0px 4px 5px rgba(163,25,25,0.51);
+}
+
+.underlined-with-shadow {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #ecdcdc;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: #b811111a; 
+    text-shadow: 4px 3px 3px #a938388a;
+    text-underline-offset: 1px;
+    font-weight: bold;
+}
+
+.image-with-border-and-shadow {
+    border: 2px solid #000000;
+    border-style: dashed;
+    box-shadow: 5px 5px 1px #7201011a;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.img {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.special-word {
+    color: #e0d2d2;
+    font-size: 24px;
+    font-weight: bold;
+    word-spacing: 8px;
+    text-shadow: 5px 2px 5px #0000009c;
+    
+}
+
+.special-name {
+    color: #e2dbdb;
+    text-decoration: underline;
+    text-decoration-color: hsl(0, 0%, 91%); 
+    text-shadow: 4px 3px 3px #a938388a;
+    text-underline-offset: 1px;
+    font-weight: bold;
+}
+
+.justified-text {
+    text-align: justify;
+    line-height: 1.5;
+}
+
+.underlined-with-shadow2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #8a0d0d;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: #b811111a; 
+    text-shadow: 3px 3px 3px #ffffff;
+    text-underline-offset: 1px;
+}
+
+.special-word2 {
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: bold;
+    word-spacing: 2px;
+    text-shadow: 5px 2px 5px #0000009c;
+    
+}
+
+.special-word3 {
+    color: #a82d2d;
+    text-decoration: line-through;
+    text-decoration-color: #000000;
+}
